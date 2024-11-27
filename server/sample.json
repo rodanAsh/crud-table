@@ -1,0 +1,12 @@
+[
+    {"id":1,"name":"Luffy","age":19,"crew":"Straw Hat Pirates"},
+    {"id":2,"name":"Teach","age":39,"crew":"Black Beard Pirates"},
+    {"id":3,"name":"Ace","age":22,"crew":"White Beard Pirates"},
+    {"id":4,"name":"Sabo","age":22,"crew":"Revolutionary Army"},
+    {"id":5,"name":"Shanks","age":37,"crew":"Red Haired Pirates"},
+    {"id":6,"name":"Garp","age":60,"crew":"World Navy"},
+    {"id":7,"name":"Kaido","age":52,"crew":"Beast Pirates"},
+    {"id":8,"name":"Zoro","age":21,"crew":"Straw Hat Pirates"},
+    {"id":9,"name":"Roger","age":61,"crew":"Roger Pirates"},
+    {"id":10,"name":"Akainu","age":40,"crew":"World Navy"}
+]
